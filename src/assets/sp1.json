@@ -1,0 +1,27 @@
+{
+  id_sp: 1,
+  events: [
+    {
+      id_ev: 8465406,
+      priority: 40,
+      duration: 60,
+      icon_ht: "https://cdn.betcity.ru/static/flags/en.svg",
+      icon_at: "https://cdn.betcity.ru/static/flags/en.svg",
+      start_show: "2021-04-11 18:30",
+      end_show: "2021-04-11 20:35",
+      link_lp: "https://promote.betcity.ru/totman/",
+      link_site: "https://betcity.ru/ru/reg?prmcode=TOTMAN500",
+    },
+    {
+      id_ev: 8465405,
+      priority: 2,
+      duration: 10,
+      icon_ht: "https://cdn.betcity.ru/static/flags/en.svg",
+      icon_at: "https://cdn.betcity.ru/static/flags/en.svg",
+      start_show: "2021-04-11 21:00",
+      end_show: "2021-04-11 23:05",
+      link_lp: "https://promote.betcity.ru/shears/",
+      link_site: "https://betcity.ru/ru/reg?prmcode=SHEARS500",
+    },
+  ],
+}
